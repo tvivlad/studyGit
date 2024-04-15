@@ -5,6 +5,7 @@ const MainPage = () => {
     <div>
       MainPage
       <h2>Hello users!!!</h2>
+      <hr />
     </div>
   )
 }
