@@ -1,0 +1,34 @@
+.page {
+  width: 50%;
+}
+.image {
+  width: 30%;
+  margin: 5px auto;
+  object-fit: cover;
+  display: block;
+}
+
+.category {
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.descript {
+  padding: 35px;
+  text-align: justify;
+}
+.count {
+  font-weight: 600;
+  text-align: center;
+}
+
+.rating {
+  color: red;
+  font-weight: 700;
+  text-align: center;
+}

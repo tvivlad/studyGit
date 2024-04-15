@@ -1,0 +1,27 @@
+.navbar {
+  display: flex;
+  background-color: rgb(72, 127, 245);
+  justify-content: space-between;
+}
+
+.links {
+  display: flex;
+  width: 50%;
+  min-width: 500px;
+}
+
+.link {
+  text-decoration: none;
+  display: block;
+  padding: 10px;
+}
+.link:hover {
+  background-color: rgb(149, 179, 244);
+}
+
+.login {
+  display: flex;
+  width: 150px;
+  justify-content: center;
+  align-items: center;
+}
