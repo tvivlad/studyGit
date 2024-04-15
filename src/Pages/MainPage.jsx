@@ -1,7 +1,12 @@
 import React from 'react'
 
 const MainPage = () => {
-  return <div>MainPage</div>
+  return (
+    <div>
+      MainPage
+      <h2>Hello users!!!</h2>
+    </div>
+  )
 }
 
 export default MainPage
