@@ -24,6 +24,8 @@ const AuthorizationPage = () => {
         />
         <button>войти</button>
       </form>
+
+      <h2>This file also changed in the main branch</h2>
     </div>
   )
 }
